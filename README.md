@@ -31,8 +31,8 @@ This repository logs the design, DSP signal processing, and HDL/hardware impleme
 
 | 日付 | トピック | 概要 | リンク |
 | :--- | :--- | :--- | :--- |
-| 2026-06-04 | R-2Rラダー | DAC出力波形の歪み原因調査 | [Log](./docs/2026-06-04.md) |
-| 2026-04-26 | Verilog HDL | FSM・NCO・DDSによる波形生成原理 | [Log](./docs/2026-04-26.md) |
-| 2026-04-25 | パルス制御・FFT | FID信号生成と高速フーリエ変換解析 | [Log](./docs/2026-04-25.md) |
-| 2026-04-24-2 | ノイズ | 信号にノイズを混ぜる | [Log](./docs/2026-04-24-1.md)
-| 2026-04-24-1 | 信号作製 | s(t) = A sin(2πft) e^(-t/T2) の実装 | [Log](./docs/2026-04-24-1.md) |
+| 2026-06-04 | R-2Rラダー | DAC出力波形の歪み原因調査 | [Log](./github/2026-06-04.md) |
+| 2026-04-26 | Verilog HDL | FSM・NCO・DDSによる波形生成原理 | [Log](./github/2026-04-26.md) |
+| 2026-04-25 | パルス制御・FFT | FID信号生成と高速フーリエ変換解析 | [Log](./github/2026-04-25.md) |
+| 2026-04-24-2 | ノイズ | 信号にノイズを混ぜる | [Log](./github/2026-04-24-1.md)
+| 2026-04-24-1 | 信号作製 | s(t) = A sin(2πft) e^(-t/T2) の実装 | [Log](./github/2026-04-24-1.md) |
