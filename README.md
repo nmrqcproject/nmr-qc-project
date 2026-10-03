@@ -33,10 +33,15 @@ This repository logs the design, DSP signal processing, and HDL/hardware impleme
 
 NotebookLMによるEFNMRQCプロジェクトの動画解説と概要です。
 
-[![EFNMRQC 解説動画（有識者向け）](https://img.youtube.com/vi/https://youtube.com/shorts/Szdj7OEizAU?feature=share/maxresdefault.jpg)](https://youtu.be/https://youtube.com/shorts/Szdj7OEizAU?feature=share)
-
-
-
+<a href="https://youtube.com/shorts/Szdj7OEizAU">
+  <img src="https://img.youtube.com/vi/Szdj7OEizAU/0.jpg" width="200" alt="EFNMRQC 解説1">
+</a>
+<a href="https://youtube.com/shorts/AaI9j7_s0hg">
+  <img src="https://img.youtube.com/vi/AaI9j7_s0hg/0.jpg" width="200" alt="EFNMRQC 解説2">
+</a>
+<a href="https://youtube.com/shorts/5JBLOUBneWA">
+  <img src="https://img.youtube.com/vi/5JBLOUBneWA/0.jpg" width="200" alt="EFNMRQC 解説3">
+</a>
 
 ---
 
