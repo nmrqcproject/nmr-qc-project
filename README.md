@@ -29,6 +29,15 @@ This repository logs the design, DSP signal processing, and HDL/hardware impleme
 
 
 ---
+## プロジェクト解説動画 (Overview Video)
+
+NotebookLMによるEFNMRQCプロジェクトの動画解説と概要です。
+
+[![EFNMRQC 解説動画(有識者向け)](https://youtube.com/shorts/Szdj7OEizAU?feature=share)]
+
+
+
+---
 
 ## 開発ログ (Development Logs)
 
