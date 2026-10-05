@@ -6,6 +6,8 @@ This repository logs the design, DSP signal processing, and HDL/hardware impleme
 
 Xにてリアルタイムで進捗状況を投稿してます。
 [リンク](https://x.com/nmrqcproject)
+Bloggerでは高校生にもわかるように解説してる記事を投稿してます。
+[リンク](https://nmrqcp.blogspot.com/?m=1)
 
 ---
 
