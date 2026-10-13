@@ -1,6 +1,6 @@
 # NMR Quantum Computer Project (EFNMRQC)
 
-高専生による地球磁場NMR（核磁気共鳴）方式を用いた量子コンピュータの製作および評価プロセスを記録するリポジトリです。
+高専生による地球磁場NMR（核磁気共鳴）方式を用いた量子コンピュータの製作を記録するリポジトリです。
 
 This repository logs the design, DSP signal processing, and HDL/hardware implementation of an Earth's Field NMR (EFNMR) Quantum Computer project.
 
