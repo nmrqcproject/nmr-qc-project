@@ -4,6 +4,8 @@
 
 This repository logs the design, DSP signal processing, and HDL/hardware implementation of an Earth's Field NMR (EFNMR) Quantum Computer project.
 
+ホームページ
+[リンク](https://nmrqcproject.github.io/nmrqcp-website/)
 Xにてリアルタイムで進捗状況を投稿してます。
 [リンク](https://x.com/nmrqcproject)
 <br>Zennでは感想なども含めた記事を投稿してます。
