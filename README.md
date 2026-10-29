@@ -6,7 +6,7 @@ This repository logs the design, DSP signal processing, and HDL/hardware impleme
 
 ホームページ
 [リンク](https://nmrqcproject.github.io/nmrqcp-website/)
-Xにてリアルタイムで進捗状況を投稿してます。
+<br>Xにてリアルタイムで進捗状況を投稿してます。
 [リンク](https://x.com/nmrqcproject)
 <br>Zennでは感想なども含めた記事を投稿してます。
 [リンク](https://zenn.dev/nmrqcp)
